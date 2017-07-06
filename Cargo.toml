@@ -1,0 +1,10 @@
+[package]
+name = "moo"
+version = "0.1.0"
+authors = ["Sean Griffin <sean@seantheprogrammer.com>"]
+license = "MIT OR Apache-2.0"
+description = "It moos"
+readme = "README.md"
+documentation = "http://docs.rs/moo"
+
+[dependencies]
